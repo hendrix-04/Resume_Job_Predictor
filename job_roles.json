@@ -1,0 +1,90 @@
+jobRoles = {
+    'Frontend Engineer': [
+        'html', 'html5', 'css', 'css3', 'javascript', 'react', 'reactjs',
+        'angular', 'angularjs', 'jquery', 'responsive design',
+        'ui development', 'ux design', 'frontend development'
+    ],
+    'Backend Engineer': [
+        'java', 'python', 'node.js', 'php', 'ruby', 'restful apis',
+        'api development', 'server-side logic', 'authentication',
+        'database management', 'sql', 'nosql', 'django', 'flask'
+    ],
+    'Fullstack Developer': [
+        'html', 'css', 'javascript', 'react', 'angular', 'node.js',
+        'python', 'java', 'php', 'restful apis', 'mongodb',
+        'mysql', 'frontend development', 'backend development'
+    ],
+    'Software Engineer': [
+        'java', 'python', 'c++', 'c#', 'data structures', 'algorithms',
+        'object-oriented programming', 'system design', 'software development',
+        'version control', 'git', 'debugging', 'unit testing', 'oop'
+    ],
+    'Cybersecurity Engineer': [
+        'network security', 'firewall', 'penetration testing',
+        'vulnerability assessment', 'ethical hacking',
+        'digital forensics', 'incident response', 'siem', 'malware analysis'
+    ],
+    'Blockchain Engineer': [
+        'blockchain', 'solidity', 'ethereum', 'smart contracts',
+        'cryptography', 'consensus algorithms', 'web3', 'distributed ledger',
+        'go', 'rust', 'blockchain architecture'
+    ],
+    'DevOps Engineer': [
+        'docker', 'kubernetes', 'ci/cd', 'jenkins', 'ansible',
+        'terraform', 'aws', 'azure', 'linux', 'monitoring', 'scripting'
+    ],
+    'Android Developer': [
+        'android', 'android studio', 'java', 'kotlin', 'xml',
+        'firebase', 'restful apis', 'material design', 'android sdk',
+        'mobile app development'
+    ],
+    'Database Administrator': [
+        'sql', 'oracle', 'mysql', 'postgresql', 'nosql', 'database tuning',
+        'data backup', 'data recovery', 'performance monitoring',
+        'database architecture'
+    ],
+    'Data Analyst': [
+        'sql', 'python', 'r', 'excel', 'tableau', 'power bi',
+        'data visualization', 'data cleaning', 'data wrangling',
+        'statistical analysis', 'reporting'
+    ],
+    'Data Scientist': [
+        'python', 'r', 'machine learning', 'deep learning',
+        'scikit-learn', 'tensorflow', 'keras', 'nlp', 'pandas', 'matplotlib',
+        'data preprocessing', 'model evaluation', 'predictive modeling'
+    ],
+    'Data Engineer': [
+        'python', 'java', 'scala', 'spark', 'hadoop', 'etl',
+        'airflow', 'kafka', 'data pipelines', 'bigquery', 'redshift',
+        'data warehouse', 'data lakes'
+    ],
+    'Business Analyst': [
+        'sql', 'excel', 'power bi', 'tableau', 'requirement gathering',
+        'process modeling', 'use case analysis', 'gap analysis',
+        'business intelligence', 'data analysis'
+    ],
+    'Machine Learning Engineer': [
+        'python', 'machine learning', 'deep learning', 'tensorflow',
+        'keras', 'pytorch', 'model deployment', 'scikit-learn',
+        'model training', 'data preprocessing'
+    ],
+    'Electrical and Electronics Engineer': [
+    'circuit design', 'power systems', 'electrical machines', 'pcb design',
+    'signal processing', 'transformers', 'microcontrollers', 'multisim',
+    'proteus', 'simulink', 'matlab', 'embedded systems', 'analog electronics',
+    'digital electronics', 'sensors', 'arduino', 'oscilloscope', 'vhdl', 'verilog'
+],
+    'Embedded Engineer': [
+    'embedded systems', 'microcontrollers', 'c programming', 'firmware development',
+    'rtos', 'i2c', 'spi', 'uart', 'arm cortex', 'stm32', 'pic microcontroller',
+    'interrupts', 'gpio', 'arduino', 'raspberry pi', 'real-time systems',
+    'keil', 'proteus', 'assembly language', 'bare metal programming'
+],
+
+
+    'Artificial Intelligence Engineer': [
+        'ai', 'python', 'r', 'c++', 'machine learning',
+        'neural networks', 'computer vision', 'nlp',
+        'tensorflow', 'keras', 'model optimization'
+    ]
+}
